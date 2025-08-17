@@ -118,4 +118,4 @@ MIT License
 
 ## 👨‍💻 Geliştirici
 
-Meric - Paraakolik Uygulaması
+Barlas Sen - Ozyegin Uni Bilgisayar Muh Ogrencisi 
