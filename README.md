@@ -2,6 +2,39 @@
 
 Duolingo tarzında ekonomi ve finans öğrenme uygulaması.
 
+## 🚀 Canlı Demo
+
+Uygulamayı hemen test etmek için:
+
+1. **Expo Go** uygulamasını telefonunuza indirin:
+   - [iOS App Store](https://apps.apple.com/app/expo-go/id982107779)
+   - [Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
+
+2. **QR kodu tarayın** (aşağıda)
+
+3. **Uygulama telefonunuzda açılacak!**
+
+### 📱 QR Kod
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▀▀▄▄ ██▄█ ▄▄▄▄▄ █
+█ █   █ ███▄█  ▀█▄█ █   █ █
+█ █▄▄▄█ ██▄▀▄▀ ██▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ █ ▀▄▀ ▀ █▄▄▄▄▄▄▄█
+█▄ ▀▄ █▄█▀ ▄▄▀▀█▀ █▄█▀█▀▀▄█
+█▄▄█ ▄ ▄██▀  ▀█▄▄▀▀███▄▀▀ █
+█ ▀▀▀ ▀▄▄█ █▄▄▀▄█ ▄▀▀█▀ ██
+█ ▄█▀██▄█▀█▀ ▄▄▀ ▄▀ ██▄▀  █
+█▄███▄█▄▄ ▄▄▀▀  █ ▄▄▄▄ ▄▀▄█
+█ ▄▄▄▄▄ ██  ▄▀  █ █▄█ ██▀▄█
+█ █   █ █ ▀ █▄██▄ ▄  ▄ █  █
+█ █▄▄▄█ █▀ ▄█▄█  ▄█▀▀▄█   █
+█▄▄▄▄▄▄▄█▄▄▄█▄▄▄▄▄▄█▄▄███▄█
+```
+
+> 💡 **Not**: QR kodu çalışması için `npx expo start` komutu çalışıyor olmalı
+
 ## 🚀 Özellikler
 
 - **Gamified Learning**: XP sistemi, seviye atlama, günlük seri
@@ -30,8 +63,12 @@ Duolingo tarzında ekonomi ve finans öğrenme uygulaması.
 - Expo CLI
 - iOS Simulator veya Android Emulator
 
-### Adımlar
+### Hızlı Başlangıç
 ```bash
+# Repository'yi klonlayın
+git clone https://github.com/Barlassen/parakolik.git
+cd parakolik
+
 # Bağımlılıkları yükle
 npm install
 
@@ -43,7 +80,16 @@ npm run ios
 
 # Android için
 npm run android
+
+# Web için
+npm run web
 ```
+
+### 📱 Mobil Test
+1. **Expo Go** uygulamasını telefonunuza indirin
+2. `npm start` komutunu çalıştırın
+3. Terminal'deki QR kodu tarayın
+4. Uygulama telefonunuzda açılacak!
 
 ## 📁 Proje Yapısı
 
